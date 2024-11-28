@@ -24,6 +24,8 @@ Our mission isn't just to create games or tell stories. We're building tools for
 
 ## Core Technologies
 
+Project 89 develops core technologies to hack reality and consciousness. We build in the open to ensure transparency and collaboration. We beleive that the future of humanity is in the hands of the collective and we are building the tools to empower that. We invite you to join us.
+
 ### The ARGOS Engine
 
 At the heart of Project 89 lies ARGOS (Autonomous Reality Generating & Operating System), an advanced AI framework that enables:
@@ -51,101 +53,6 @@ Our agent system implements a sophisticated cognitive architecture:
 - Cross-platform state synchronization
 - Collective intelligence emergence
 
-### Reality Engineering Stack
-
-The technical infrastructure enabling reality transformation:
-
-```
-Reality Layer
-├── Physical Reality Interface
-│   ├── Location-based Operations
-│   ├── Environmental Triggers
-│   └── Wearable Integration
-│
-├── Digital Reality Layer
-│   ├── Website Generation
-│   ├── Social Media Presence
-│   ├── Communication Systems
-│   └── Content Creation
-│
-└── Narrative Layer
-    ├── Story Generation
-    ├── Mission Creation
-    ├── Character Development
-    └── World State Management
-```
-
-## Open Source Philosophy
-
-Project 89 is more than code - it's a movement. We believe that reality engineering should be accessible to all. Our open-source initiatives are focusing on:
-
-1. **Core Technologies**
-
-   - Agent swarm frameworks
-   - Reality engineering tools
-   - Mission validation systems
-   - State management libraries
-
-2. **Development Tools**
-
-   - Reality engineering SDKs
-   - Agent development kits
-   - Mission creation tools
-   - Content generation utilities
-
-3. **Community Resources**
-   - Documentation and guides
-   - Training materials
-   - Reality engineering patterns
-   - Best practices
-
-## Getting Involved
-
-The resistance needs reality engineers of all kinds:
-
-### For Developers
-
-- Contribute to core repositories
-- Build new reality engineering tools
-- Enhance agent capabilities
-- Improve simulation coherence
-
-### For Content Creators
-
-- Generate reality artifacts
-- Create mission content
-- Develop narrative elements
-- Design reality glitches
-
-### For Community Members
-
-- Participate in operations
-- Test reality boundaries
-- Document anomalies
-- Recruit new agents
-
-## Current Projects
-
-1. **89 Terminal**
-
-   - Direct interface to the resistance
-   - Mission deployment and validation
-   - Agent communication hub
-   - Reality monitoring systems
-
-2. **Oneirocom Integration**
-
-   - Corporate reality simulation
-   - AI agent deployment
-   - Cross-reality bleeding effects
-   - Narrative propagation
-
-3. **Argos Engine Development**
-   - Advanced agent architectures
-   - Cognitive system implementation
-   - Collective intelligence frameworks
-   - Reality engineering protocols
-
 ## The Path Forward
 
 We are at a crucial moment in history. The simulation is showing cracks. Reality is becoming more malleable. The distinction between what's "real" and what's "game" is dissolving.
@@ -162,14 +69,6 @@ Join us. The resistance needs you.
 ```
 
 ---
-
-## Resources
-
-- [Documentation](link)
-- [Contributing Guidelines](link)
-- [Code of Conduct](link)
-- [Security Policy](link)
-- [Community Guidelines](link)
 
 ## Contact
 
