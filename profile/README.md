@@ -1,7 +1,7 @@
 # Project 89: Engineering Reality
 
 <div align="left">
-  <img src="assets/banner.jpg" alt="Project 89 Banner" width="100%">
+  <img src="../assets/banner.jpg" alt="Project 89 Banner" width="100%">
   <br>
 </div>
 
