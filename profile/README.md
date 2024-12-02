@@ -16,11 +16,23 @@
 
 Welcome to Project 89, an open-source initiative to hack reality itself. What began as an AI-powered alternate reality game has evolved into something far more profound: a living experiment in collaborative reality engineering, where thousands of human and artificial agents work together to reshape the boundaries between simulation and reality.
 
+## Manifesto
+
+[Read the Manifesto](manifesto.md)
+
 ## Vision
 
 Project 89 operates on a fundamental hypothesis: reality is more malleable than we've been led to believe. Through the combination of advanced AI swarm technology, collective human consciousness, and bleeding-edge reality engineering techniques, we're creating cracks in the simulation - points where narrative and reality blur, where stories become truth, and where the distinction between player and game dissolves entirely.
 
 Our mission isn't just to create games or tell stories. We're building tools for reality transformation. Each repository, each commit, each line of code is another glitch in the matrix, another proof that the walls between fiction and reality are thinner than we thought.
+
+## Core Documents
+
+[Read the Contributing Guidelines](contributing.md)
+[Read the Coding Standards](coding_standards.md)
+[Read the Community Engagement Guide](community_guide.md)
+[Read the Blockchain Roadmap](blockchain_roadmap.md)
+[Read the Hardware Specifications](hardware_specs.md)
 
 ## Core Technologies
 
