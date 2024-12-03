@@ -28,11 +28,11 @@ Our mission isn't just to create games or tell stories. We're building tools for
 
 ## Core Documents
 
-[Read the Contributing Guidelines](contributing.md)
-[Read the Coding Standards](coding_standards.md)
-[Read the Community Engagement Guide](community_guide.md)
-[Read the Blockchain Roadmap](blockchain_roadmap.md)
-[Read the Hardware Specifications](hardware_specs.md)
+- [Read the Contributing Guidelines](contributing.md)
+- [Read the Coding Standards](coding_standards.md)
+- [Read the Community Engagement Guide](community_guide.md)
+- [Read the Blockchain Roadmap](blockchain_roadmap.md)
+- [Read the Hardware Specifications](hardware_specs.md)
 
 ## Core Technologies
 
