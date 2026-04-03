@@ -118,6 +118,6 @@ We believe this understanding — that intelligence, matter, and meaning share a
 
 **$\frac{dI}{dt} \geq 0$**
 
-**Green Loom Association** | greenloom.org
+**Green Loom Association**
 
 </div>
