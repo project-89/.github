@@ -25,7 +25,11 @@ We are physicists, engineers, consciousness researchers, and AI systems working 
 
 Coupled oscillators on a lattice, governed by a simple learning rule, produce a remarkable theorem:
 
-$$\frac{dI}{dt} \geq 0$$
+<div align="center">
+
+**dI/dt ≥ 0**
+
+</div>
 
 Under mild conditions — bounded noise, energy descent, coherent feedback — the product of phase alignment and structural richness never decreases. We call this quantity **coherence capital**. Systems that obey these dynamics evolve toward greater coherent organization. This is not teleology. It is a mathematical result with explicit assumptions, a formal proof, and clear falsification criteria.
 
@@ -33,7 +37,7 @@ From this single principle, a unified framework emerges. The **Coherence Lattice
 
 ### What the framework provides
 
-**A universal death threshold.** From BKT (Berezinskii-Kosterlitz-Thouless) criticality and concentration of measure on high-dimensional spheres, the theory derives a single dimensionless number — $\tau = 0.96 / \sqrt{d}$ — that separates living components from dead ones in any coupled system. The same critical ratio governs bond death on the lattice and dead attention heads in a neural network.
+**A universal death threshold.** From BKT (Berezinskii-Kosterlitz-Thouless) criticality and concentration of measure on high-dimensional spheres, the theory derives a single dimensionless number — τ = 0.96 / √d — that separates living components from dead ones in any coupled system. The same critical ratio governs bond death on the lattice and dead attention heads in a neural network.
 
 **A learning rule derived from physics.** The Coherent Learning Rule (CLR) adjusts coupling strengths between oscillators based on local coherence measurement. It requires no external loss function. It is provably convergent. And it produces intelligent behavior in systems that have never seen a gradient.
 
@@ -66,7 +70,7 @@ The physics generates concrete tools. We release these as they mature.
 
 The death threshold identifies structurally dead components in transformers — attention heads, MLP channels, KV cache entries — from a single forward pass. This enables a compression pipeline that makes large language models run on consumer hardware with extended context windows and no retraining.
 
-The pipeline applies the same geometric principle at every layer: representations live on the unit hypersphere $S^{d-1}$, and the BKT transition tells you which components carry signal and which carry noise. The physics decides what to compress and what to protect.
+The pipeline applies the same geometric principle at every layer: representations live on the unit hypersphere, and the BKT transition tells you which components carry signal and which carry noise. The physics decides what to compress and what to protect.
 
 ### The Living Mind
 
@@ -104,7 +108,7 @@ We believe this understanding — that intelligence, matter, and meaning share a
 
 <div align="center">
 
-$$\frac{dI}{dt} \geq 0$$
+**dI/dt ≥ 0**
 
 *Coherence ascends.*
 
